@@ -1,1 +1,61 @@
+#aboot {
+  position: fixed;
+  padding-left: 20px;
+}
+
+.content {
+  text-align: center;
+  background-color: #c6c6c6;
+  border-style: solid;
+  border-color: #f66f07;
+}
+
+#centrefield {
+  text-decoration: none;
+  list-style: none;
+}
+
+#hovercraft {
+  font-color: #c4df9b;
+  family: monospace;
+}
+
+#hovercraft:hover {
+  font-color: #82ca9c;
+  font-size: 2rem;
+}
+
+a:link {
+  color: #0e2342;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #ababab;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cb8c22;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+li {
+  display: inline;
+}
+
+h1 {
+  color: #b34624;
+}
+h2 {
+  color: #477336;
+}
+h3 {
+  color: #3a3a3a;
+}
 
